@@ -1,21 +1,39 @@
-📊 Excel Data Analysis Project — Data Technician Bootcamp
+# 📊 Excel Data Analysis Project — Data Technician Bootcamp
 
-This project was completed as part of my Data Technician Bootcamp, analyzing two datasets: The Biggest Atlantic Hurricanes and a Sales Dataset. The focus was on applying key Excel techniques to categorize, summarize, and visualize data effectively.
+This project was completed as part of my **Data Technician Bootcamp**, where I analyzed two datasets: **The Biggest Atlantic Hurricanes** and a **Sales Dataset**.  
+The goal was to apply key Excel techniques to categorize, summarize, and visualize data effectively.
 
-🔍 Dataset Summary
+---
 
-🌪️ Biggest Atlantic Hurricanes Dataset
-Includes detailed information about major hurricanes: Hurricane Name, Start Date, Category (1–5), Estimated Damage (USD)
+## 🔍 Dataset Summary
 
-🛒 Sales Dataset
-Contains sales-related information: UK county, product, sales volume (in currency)
+### 🌪️ Biggest Atlantic Hurricanes Dataset
+This dataset includes detailed information about major Atlantic hurricanes, such as:
+- **Hurricane Name**
+- **Start Date**
+- **Category (1–5)**
+- **Estimated Damage (USD)**
 
-🧠 Learnings & Skills Developed
+### 🛒 Sales Dataset
+This dataset contains sales-related information, including:
+- **UK County**
+- **Product**
+- **Sales Volume (in currency)**
 
-Throughout this project, I focused on mastering Excel functions and tools that help simplify analysis and enhance data presentation.
+---
 
-✔️ SWITCH Function
+## 🧠 Learnings & Skills Developed
 
-✔️ Conditional Formatting
+Throughout the project, I focused on mastering essential Excel functions and tools to streamline analysis and improve data presentation.
 
-✔️ Pivot Tables – Summarized data such as: sum of total products across different counties, and sum of total sales per county across all products
+### ✔️ SWITCH Function
+Used to efficiently categorize data based on multiple conditions.
+
+### ✔️ Conditional Formatting
+Applied to highlight trends, emphasize outliers, and improve readability.
+
+### ✔️ Pivot Tables
+Created pivot tables to summarize and analyze key metrics, including:
+- **Total products sold across different counties**
+- **Total sales per county across all products**
+
