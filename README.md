@@ -36,4 +36,6 @@ Applied to highlight trends, emphasize outliers, and improve readability.
 Created pivot tables to summarize and analyze key metrics, including:
 - **Total products sold across different counties**
 - **Total sales per county across all products**
+<img width="1301" height="812" alt="image" src="https://github.com/user-attachments/assets/ddfb7c8f-4f39-48e9-b7d6-9973e2aaac25" />
+
 
